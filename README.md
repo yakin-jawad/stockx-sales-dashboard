@@ -11,5 +11,5 @@ Before beginning the project, however, I asked ChatGPT to generate a user story 
 scenario. I've also drawn a preliminary sketch of what I'd initially wanted the dashboard to look like to have a clear vision, although I ended up
 changing a few details and sections around to look visually appealing.
 
-The end product is my first attempt at using all these technologies, making sure to reference any resources I might have used and create a dashboard which
+The end product (which can be viewed [here](https://public.tableau.com/app/profile/yakin.jawad/viz/stockx-sales-dashboard/SalesPerformanceDashboard?publish=yes) is my first attempt at using all these technologies, making sure to reference any resources I might have used and create a dashboard which
 tries to mimick StockX's very own website, utilizing their colour schemes and design philosophies.
