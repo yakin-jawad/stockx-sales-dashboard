@@ -12,4 +12,5 @@ scenario. I've also drawn a preliminary sketch of what I'd initially wanted the 
 changing a few details and sections around to look visually appealing.
 
 The end product (which can be viewed [here](https://public.tableau.com/app/profile/yakin.jawad/viz/stocks-sales-dashboard/SalesPerformanceDashboard), or as an image in the images section) is my first attempt at using all these technologies, making sure to reference any resources I might have used and create a dashboard which
-tries to mimick StockX's very own website, utilizing their colour schemes and design philosophies.
+tries to mimick StockX's very own website, utilizing their colour schemes and design philosophies. Using Chrome or a Chromium-based browser is reccommended to see the actual fonts used, as the image-file replaces the fonts with a generic
+typeface and Safari defaults certain fonts to Times New Roman.
